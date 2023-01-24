@@ -1,4 +1,4 @@
-# WPS_Assignment_1
+# Quiz_Assignment
 Student Name: Aditya Narayan Khajuria;
 
 Student RollNo: 1602-19-733-001;
